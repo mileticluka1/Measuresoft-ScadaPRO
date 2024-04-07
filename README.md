@@ -31,8 +31,8 @@ Example: `python3 exploit.py 192.168.1.1 502 192.168.1.2 8080 payload.exe stager
 # Disclaimer
 ### Do not use this against targets that did not give you authorization to do it. I am not responsible for any misusage of this program.
 
-
-```  ___ ___                __       __  .__               _________                  .___       
+```
+  ___ ___                __       __  .__               _________                  .___       
  /   |   \_____    ____ |  | __ _/  |_|  |__   ____    /   _____/ ____ _____     __| _/____   
 /    ~    \__  \ _/ ___\|  |/ / \   __\  |  \_/ __ \   \_____  \_/ ___\\__  \   / __ |\__  \  
 \    Y    // __ \\  \___|    <   |  | |   Y  \  ___/   /        \  \___ / __ \_/ /_/ | / __ \_
